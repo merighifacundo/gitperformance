@@ -1,0 +1,4 @@
+export enum ReportType {
+  COMMITS_PER_MONTH = "COMMITS_PER_MONTH",
+  ALL_COMMITS = "ALL_COMMITS",
+}
